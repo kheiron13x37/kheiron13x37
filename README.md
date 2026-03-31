@@ -1,16 +1,13 @@
-## Hi there 👋
+# fullstack cheat artist
 
-<!--
-**kheiron13x37/kheiron13x37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌐 My Hub
+* [GitProfile](https://gitprofile.cc)
+* [GitLink](https://gitlink.cc)
+* [RateCheats](https://ratecheats.org)
+* [Portfolio](https://erenkrats.com)
+* [Fluixy](https://fluixy.fun)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+<div align="left">
+  <img src="https://komarev.com/ghpvc/?username=kheiron13x37&color=darkgray&style=flat-square&label=VIEWS" alt="Profile Views" />
+</div>
