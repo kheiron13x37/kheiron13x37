@@ -9,5 +9,5 @@
 
 ---
 <div align="left">
-  <img src="https://komarev.com/ghpvc/?username=kheiron13x37&color=darkgray&style=flat-square&label=VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=kheiron13x37&color=333333&style=flat-square&label=VIEWS" alt="Profile Views" />
 </div>
